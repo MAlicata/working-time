@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+// Uso de Genericos
 namespace working_time.Data
 {
     public class GenericRepository<T> where T : class
